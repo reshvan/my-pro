@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\sfx-defeat1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project-template-infinte-running-game-main"
+	}
+}
